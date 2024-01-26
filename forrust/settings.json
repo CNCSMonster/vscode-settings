@@ -3,5 +3,5 @@
     "editor.formatOnSave": true,
     // 设置启动clippy 提示
     "rust-analyzer.check.command": "clippy",
-    "rust-analyzer.CheckOnsave.enable": true
+    "rust-analyzer.checkOnSave": true,
 }
