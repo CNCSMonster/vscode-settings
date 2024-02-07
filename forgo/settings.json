@@ -1,0 +1,4 @@
+{
+    // 设置 go语法服务器使用的build tag,
+    "go.buildTags": "release staging"
+}
